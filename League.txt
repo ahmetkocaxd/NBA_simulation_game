@@ -1,0 +1,17 @@
+Team Name                Win                      Lose                     Draw                     
+Minnesota Timberwolves   11                       20                       2                        
+Boston Celtics           8                        21                       4                        
+Chicago Bulls            22                       9                        2                        
+Los Angeles Lakers       11                       22                       0                        
+Denver Nuggets           19                       10                       4                        
+Orlando Magic            0                        33                       0                        
+Golden State Warriors    17                       13                       3                        
+Utah Jazz                9                        19                       5                        
+Portland Trail Blazers   23                       9                        1                        
+Atlanta Hawks            26                       5                        2                        
+Toronto Raptors          4                        27                       2                        
+Miami Heat               18                       12                       3                        
+Wizards                  24                       7                        2                        
+Detroit Pistons          29                       3                        1                        
+Indiana Pacers           25                       7                        1                        
+Brooklyn Nets            2                        31                       0                        

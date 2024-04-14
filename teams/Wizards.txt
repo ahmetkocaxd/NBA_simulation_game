@@ -1,0 +1,5 @@
+Kenyon Martin Jr.-SF-1.5-0.4-12.7-0.5-5.5-4
+Markelle Fultz-PG-5.7-0.4-14.0-1.5-3.9-5
+Dorian Finney-Smith-PF-1.53-0.53-8.2-0.83-4.8-3
+Quentin Grimes-SG-2.1-0.4-11.3-0.7-3.2-4
+Isaiah Jackson-C-0.8-1.5-7.2-0.5-4.5-3

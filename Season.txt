@@ -1,0 +1,60 @@
+Home: Boston Celtics | Away: Denver Nuggets Match: 23-28 Denver Nuggets Won.
+Home: Indiana Pacers | Away: Detroit Pistons Match: 9-13 Detroit Pistons Won.
+Home: Miami Heat | Away: Detroit Pistons Match: 8-20 Detroit Pistons Won.
+Home: Minnesota Timberwolves | Away: Utah Jazz Match: 17-16 Minnesota Timberwolves Won.
+Home: Los Angeles Lakers | Away: Atlanta Hawks Match: 28-27 Los Angeles Lakers Won.
+Home: Boston Celtics | Away: Los Angeles Lakers Match: 20-22 Los Angeles Lakers Won.
+Home: Miami Heat | Away: Detroit Pistons Match: 8-16 Detroit Pistons Won.
+Home: Miami Heat | Away: Orlando Magic Match: 7-7 Draw.
+Home: Wizards | Away: Chicago Bulls Match: 21-24 Chicago Bulls Won.
+Home: Golden State Warriors | Away: Brooklyn Nets Match: 30-22 Golden State Warriors Won.
+Home: Miami Heat | Away: Portland Trail Blazers Match: 8-14 Portland Trail Blazers Won.
+Home: Atlanta Hawks | Away: Boston Celtics Match: 23-22 Atlanta Hawks Won.
+Home: Wizards | Away: Golden State Warriors Match: 20-28 Golden State Warriors Won.
+Home: Wizards | Away: Minnesota Timberwolves Match: 17-12 Wizards Won.
+Home: Minnesota Timberwolves | Away: Boston Celtics Match: 18-20 Boston Celtics Won.
+Home: Brooklyn Nets | Away: Indiana Pacers Match: 24-11 Brooklyn Nets Won.
+Home: Portland Trail Blazers | Away: Toronto Raptors Match: 16-14 Portland Trail Blazers Won.
+Home: Orlando Magic | Away: Indiana Pacers Match: 8-9 Indiana Pacers Won.
+Home: Boston Celtics | Away: Chicago Bulls Match: 22-25 Chicago Bulls Won.
+Home: Brooklyn Nets | Away: Detroit Pistons Match: 23-17 Brooklyn Nets Won.
+Home: Indiana Pacers | Away: Toronto Raptors Match: 8-16 Toronto Raptors Won.
+Home: Orlando Magic | Away: Minnesota Timberwolves Match: 7-16 Minnesota Timberwolves Won.
+Home: Miami Heat | Away: Utah Jazz Match: 8-15 Utah Jazz Won.
+Home: Denver Nuggets | Away: Orlando Magic Match: 28-8 Denver Nuggets Won.
+Home: Portland Trail Blazers | Away: Boston Celtics Match: 13-21 Boston Celtics Won.
+Home: Brooklyn Nets | Away: Utah Jazz Match: 23-18 Brooklyn Nets Won.
+Home: Toronto Raptors | Away: Denver Nuggets Match: 16-28 Denver Nuggets Won.
+Home: Toronto Raptors | Away: Indiana Pacers Match: 18-12 Toronto Raptors Won.
+Home: Chicago Bulls | Away: Brooklyn Nets Match: 22-26 Brooklyn Nets Won.
+Home: Brooklyn Nets | Away: Portland Trail Blazers Match: 27-15 Brooklyn Nets Won.
+Home: Indiana Pacers | Away: Portland Trail Blazers Match: 11-14 Portland Trail Blazers Won.
+Home: Golden State Warriors | Away: Atlanta Hawks Match: 30-18 Golden State Warriors Won.
+Home: Wizards | Away: Boston Celtics Match: 19-20 Boston Celtics Won.
+Home: Detroit Pistons | Away: Indiana Pacers Match: 14-10 Detroit Pistons Won.
+Home: Chicago Bulls | Away: Orlando Magic Match: 24-7 Chicago Bulls Won.
+Home: Boston Celtics | Away: Detroit Pistons Match: 20-13 Boston Celtics Won.
+Home: Detroit Pistons | Away: Boston Celtics Match: 18-19 Boston Celtics Won.
+Home: Portland Trail Blazers | Away: Utah Jazz Match: 18-17 Portland Trail Blazers Won.
+Home: Chicago Bulls | Away: Wizards Match: 25-20 Chicago Bulls Won.
+Home: Brooklyn Nets | Away: Wizards Match: 25-21 Brooklyn Nets Won.
+Home: Boston Celtics | Away: Miami Heat Match: 23-8 Boston Celtics Won.
+Home: Golden State Warriors | Away: Los Angeles Lakers Match: 28-27 Golden State Warriors Won.
+Home: Atlanta Hawks | Away: Los Angeles Lakers Match: 24-24 Draw.
+Home: Orlando Magic | Away: Detroit Pistons Match: 8-15 Detroit Pistons Won.
+Home: Utah Jazz | Away: Portland Trail Blazers Match: 18-13 Utah Jazz Won.
+Home: Miami Heat | Away: Utah Jazz Match: 9-15 Utah Jazz Won.
+Home: Los Angeles Lakers | Away: Denver Nuggets Match: 25-32 Denver Nuggets Won.
+Home: Indiana Pacers | Away: Los Angeles Lakers Match: 9-28 Los Angeles Lakers Won.
+Home: Minnesota Timberwolves | Away: Wizards Match: 16-22 Wizards Won.
+Home: Minnesota Timberwolves | Away: Los Angeles Lakers Match: 15-24 Los Angeles Lakers Won.
+Home: Minnesota Timberwolves | Away: Wizards Match: 14-20 Wizards Won.
+Home: Boston Celtics | Away: Detroit Pistons Match: 19-16 Boston Celtics Won.
+Home: Orlando Magic | Away: Denver Nuggets Match: 6-28 Denver Nuggets Won.
+Home: Los Angeles Lakers | Away: Utah Jazz Match: 26-16 Los Angeles Lakers Won.
+Home: Los Angeles Lakers | Away: Chicago Bulls Match: 24-21 Los Angeles Lakers Won.
+Home: Boston Celtics | Away: Chicago Bulls Match: 24-23 Boston Celtics Won.
+Home: Utah Jazz | Away: Wizards Match: 16-18 Wizards Won.
+Home: Atlanta Hawks | Away: Detroit Pistons Match: 26-14 Atlanta Hawks Won.
+Home: Denver Nuggets | Away: Brooklyn Nets Match: 24-25 Brooklyn Nets Won.
+Home: Minnesota Timberwolves | Away: Atlanta Hawks Match: 17-22 Atlanta Hawks Won.
